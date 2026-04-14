@@ -79,6 +79,10 @@ body {
   background-color: #d9d9d9;
 }
 
+.card-image img {
+  max-width: 100%;
+}
+
 .card h3 {
   margin: 10px 0;
 }
@@ -106,4 +110,8 @@ body {
   text-align: center;
   background-color: #2d8f5b;
   color: white;
+}
+
+.card-list h3{
+  color: blue;
 }
